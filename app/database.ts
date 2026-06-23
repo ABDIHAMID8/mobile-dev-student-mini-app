@@ -11,9 +11,9 @@ export interface StudentProfile {
 // 2. Create a clean mock student record to use across our app screens
 export const mockStudent: StudentProfile = {
   id: "1",
-  name: "Jane Doe",
-  regNo: "BIT/2024/00000",
+  name: "hamkidy",
+  regNo: "BIT/2025/00000",
   course: "Bachelor of Science in Information Technology",
-  yearOfStudy: "Year 2, Semester 1",
+  yearOfStudy: "Year 4, Semester 1",
   campus: "Main Campus",
 };
